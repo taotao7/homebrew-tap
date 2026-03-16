@@ -1,6 +1,6 @@
 cask "purity-detector" do
   version "1.0.0"
-  sha256 "31a5e81e28595f590d3d42f7d6b014d306ccfbe5dd8e276d4f18d210033c63e0"
+  sha256 "af3b61b93b404f9e5c0bdcad4a489eb26662a9a96f3a0802ec471a27e92600cb"
 
   url "https://github.com/taotao7/PurityDetector/releases/download/v#{version}/PurityDetector.zip"
   name "Purity Detector"
