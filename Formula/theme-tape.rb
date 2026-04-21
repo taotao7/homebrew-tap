@@ -1,9 +1,9 @@
 class ThemeTape < Formula
   desc "Terminal theme switcher for Cassette Futurism and Zenith"
   homepage "https://github.com/taotao7/theme-tape"
-  version "0.1.11"
-  url "https://github.com/taotao7/theme-tape/releases/download/theme-tape-v0.1.11/theme-tape-0.1.11-darwin-arm64.tar.gz"
-  sha256 "3c6c89f2bf5bc58b89f562fa83e35f1a49aa2e700ad506036c4700db3f08b3a7"
+  version "0.1.12"
+  url "https://github.com/taotao7/theme-tape/releases/download/theme-tape-v0.1.12/theme-tape-0.1.12-darwin-arm64.tar.gz"
+  sha256 "4bce2ab202a92d767fabecbce9fb2e9b92316f2a222212bc18db91d3bee004db"
   license "MIT"
 
   depends_on :macos
