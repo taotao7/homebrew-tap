@@ -7,22 +7,22 @@ class Braincode < Formula
   on_macos do
     on_arm do
       url "https://github.com/taotao7/braincode/releases/download/v0.2.2/braincode-darwin-arm64.tar.gz"
-      sha256 "26987e53e1da18ad1b6002fe85604f56e9971720b7557610ecd6b81a1cc3e517"
+      sha256 "a1beb59b52917e565e98031b248d473d23ee4786ab69b2d668aac9290d7b565c"
     end
     on_intel do
       url "https://github.com/taotao7/braincode/releases/download/v0.2.2/braincode-darwin-x64.tar.gz"
-      sha256 "9c82638dfa86543900fd103011cf2295c77cc31dad981f74ac5ce455405be1e6"
+      sha256 "7e9368df2dfd1374ffc9fcb7d1fe695a964cc6a17e76e5809bc2a59e710a101c"
     end
   end
 
   on_linux do
     on_arm do
       url "https://github.com/taotao7/braincode/releases/download/v0.2.2/braincode-linux-arm64.tar.gz"
-      sha256 "09f44f08663ced721279ff17937e928b69e200e97db5a630d16215b994b1a595"
+      sha256 "db9fe69c02a2778a099d88aeca198463bf1a3ea0c0c2cf216cf8a029ccf189ae"
     end
     on_intel do
       url "https://github.com/taotao7/braincode/releases/download/v0.2.2/braincode-linux-x64.tar.gz"
-      sha256 "0b7edfe911dee48cee0ac5cefbff5f7e93c0ad81a527621bedd33401646f00e0"
+      sha256 "32a2297067b0d70ec84ba40444bbfba58c435c5e9ee353a8b0d0a5d0ff71d296"
     end
   end
 
