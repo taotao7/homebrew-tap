@@ -1,28 +1,28 @@
 class Braincode < Formula
   desc "Coding-first AI agent with user-selectable Brain Model"
   homepage "https://github.com/taotao7/braincode"
-  version "0.3.2"
+  version "0.3.3"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/taotao7/braincode/releases/download/v0.3.2/braincode-darwin-arm64.tar.gz"
-      sha256 "99d1186942198e75d1dcb5819c8250548529eed54db87688e3cec0f7aae21e89"
+      url "https://github.com/taotao7/braincode/releases/download/v0.3.3/braincode-darwin-arm64.tar.gz"
+      sha256 "6bc73d8c69ba7c55ceb61b3acda0cfd17afc368ae5e8a7f28cde45c1b54011d5"
     end
     on_intel do
-      url "https://github.com/taotao7/braincode/releases/download/v0.3.2/braincode-darwin-x64.tar.gz"
-      sha256 "38485abd9cb7392d29a31bb9145330256d226724e457315984ae8c7a66e922ca"
+      url "https://github.com/taotao7/braincode/releases/download/v0.3.3/braincode-darwin-x64.tar.gz"
+      sha256 "25830994d51af33bec04d7697de205d4645c430891ca029b9b1e4214aa788b81"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/taotao7/braincode/releases/download/v0.3.2/braincode-linux-arm64.tar.gz"
-      sha256 "ecd1c5217d4dd04ef26d65697830293206151cf18b683bf51071279c8f13cfda"
+      url "https://github.com/taotao7/braincode/releases/download/v0.3.3/braincode-linux-arm64.tar.gz"
+      sha256 "5f1f6bf573b979b30612f606c38ce0c563bf10c105eeb70162c80aedeafb1e0d"
     end
     on_intel do
-      url "https://github.com/taotao7/braincode/releases/download/v0.3.2/braincode-linux-x64.tar.gz"
-      sha256 "367f2cfc32ec1cf918710e82b2d75312b62fb59f0a8942f9f9f30d61cda1ede5"
+      url "https://github.com/taotao7/braincode/releases/download/v0.3.3/braincode-linux-x64.tar.gz"
+      sha256 "ea37e28db6a9a8843f145a66dbbfb20c18915325fb2ae74c897ec992dcfca121"
     end
   end
 
