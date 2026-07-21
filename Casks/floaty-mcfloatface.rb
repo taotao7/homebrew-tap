@@ -1,6 +1,6 @@
 cask "floaty-mcfloatface" do
-  version "0.2.8"
-  sha256 "b84ec0df5b52130587b83eb729df65314bd337adfa7a3ebce8b7d4a12e9e33e6"
+  version "0.3.0"
+  sha256 "a480117e26e98fdf6d5c18f8d8e237c03f166484c476062816de3ce1cf82ab4c"
   url "https://github.com/taotao7/Floaty-McFloatFace/releases/download/v#{version}/Floaty.McFloatFace_#{version}_aarch64.dmg"
   name "Floaty McFloatFace"
   desc "Camera overlay for streaming and screen recording"
