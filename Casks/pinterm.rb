@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "pinterm" do
-  version "0.2.1"
-  sha256 "06dcca43f2109ec8e89b0de26ea75a029d7ee4a5eb0cf3f6d6bd7c6ae3e38ae8"
+  version "0.2.2"
+  sha256 "2dfa177c9286dabfa4baf7e6e97b292ef3fd5aaa8cbb42e63c85f24f538c10ab"
 
   url "https://github.com/taotao7/PinTerm/releases/download/v#{version}/PinTerm-#{version}-macos-arm64.zip"
   name "PinTerm"
