@@ -1,8 +1,8 @@
 class Voltui < Formula
   desc "Cassette-futurism TUI for macOS connected-device batteries"
   homepage "https://github.com/taotao7/voltui"
-  url "https://github.com/taotao7/voltui/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "3181ae0b5bdd1549149ba0a8396c9240e34e461c94b25a869fea1f4760932669"
+  url "https://github.com/taotao7/voltui/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "c4c06e948285d5fcde0c1ae9dcf8f62df80e3bded857a451540239b8b2946f68"
   license "MIT"
   head "https://github.com/taotao7/voltui.git", branch: "main"
 
